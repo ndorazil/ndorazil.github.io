@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Moving On In Life!"
-date:       2020-05-29 03:33:17 +0000
+title:      "Moving On In Life"
+date:       2020-05-28 23:33:18 -0400
 permalink:  moving_on_in_life
 ---
 
